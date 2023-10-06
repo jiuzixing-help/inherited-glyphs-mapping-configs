@@ -1,2 +1,2 @@
 PyYAML==6.0.1
-fonttools==4.41.1
+fonttools==4.43.0
